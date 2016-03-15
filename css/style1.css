@@ -1,0 +1,23 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  color: #00ff00;
+  text-align: center;
+  font-family: monospace;
+}
+
+h4{
+  color: #000000;
+  text-align: center;
+  text-shadow: 2px 2px #ff0000;
+  font-family: sans-serif;
+}
+
+p{
+  text-align: center;
+}
+
+.quote{
+  font-family: cursive;
+}
